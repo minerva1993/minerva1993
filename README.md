@@ -1,12 +1,13 @@
 ### Jiwon Park
 
-* Senior graduate student in Hanyang University, Korea (2017-), working on experimental particle physics
+* Ph.D candidate at Hanyang University, Korea (2017, March - 2023, February), working on experimental particle physics
 * Participating in the [CMS collaboration](https://cms.cern/), CERN
 
-* [CV](https://jiwonpark.web.cern.ch/files/Jiwon_Park_CV.pdf) (download if texts are not presented) / [InspireHEP](https://inspirehep.net/authors/1515652)
+* [CV](https://jiwonpark.web.cern.ch/files/Jiwon_Park_CV.pdf) / [InspireHEP](https://inspirehep.net/authors/1515652)
 
 * Research interests
-  * Flavour changing neutral current in tHq interaction (H to bb channel)
+  * Search for flavour-changing neutral current in tHq interaction (H to bb channel)
+  * Search for lepton flavor violation in top quark interactions (tau final state)
   * Machine learning in HEP
   * CMS and RPC detector data quality monitoring
 
