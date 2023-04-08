@@ -1,7 +1,8 @@
 ### Jiwon Park
 
-* Ph.D candidate at Hanyang University, Korea (2017, March - 2023, February), working on experimental particle physics
+* Ph.D in experimental particle physics @ Hanyang University, Korea (March, 2017 - February, 2023)
 * Participating in the [CMS collaboration](https://cms.cern/), CERN
+* Humboldt fellow (April, 2023 - March, 2025) at DESY
 
 * [CV](https://jiwonpark.web.cern.ch/files/Jiwon_Park_CV.pdf) / [InspireHEP](https://inspirehep.net/authors/1515652)
 
