@@ -7,10 +7,12 @@
 * [CV](https://jiwonpark.web.cern.ch/files/Jiwon_Park_CV.pdf) / [InspireHEP](https://inspirehep.net/authors/1515652)
 
 * Research interests
-  * Search for flavour-changing neutral current in tHq interaction (H to bb channel)
+  * Top quark mass and decay width measurement with bb4l generators
   * Search for lepton flavor violation in top quark interactions (tau final state)
+  * Search for flavour-changing neutral current in tHq interaction (H to bb channel)
   * Machine learning in HEP
   * CMS and RPC detector data quality monitoring
+  * CMS DAQ shifter
 
 * Skills
   * C++, Python, shell script
